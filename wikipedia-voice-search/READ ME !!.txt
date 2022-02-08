@@ -1,0 +1,1 @@
+Just run main.py, click on speak and then tell what you want to search. It will search and display the information about that from wikipedia.

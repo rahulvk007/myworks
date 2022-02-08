@@ -1,0 +1,5 @@
+Just run index.py and then go to http://127.0.0.1:5000/.
+Enter the atomic number of any element and it will display all the data about that element. 
+Things like atomic number , name , symbol, electronic configuration is stored inside a Sqlite database and rest of the data is scraped from wikipedia live.
+
+I have also deployed this project at https://rahulvk.vercel.app/ . This can be accessed from any device with an internet connection.
