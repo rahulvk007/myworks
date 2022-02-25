@@ -1,0 +1,30 @@
+This is the HC EDUCATES 2.0 Hackathon project of my team IMPORT SQUAD.
+
+Team Members are:
+RAHUL VIJAYAKUMAR
+NANDANA MANOJ
+JUMIN SALIH
+
+
+
+-->Kindly ensure correct mysql configuration in line 23,76,125
+-->Import the two databases hackathon and doctors
+
+--> a test user has been created by default (New users can be created easily from the first window)
+    username: testuser
+    password: test123
+
+--> Credentials for Admin (for adding doctors)
+    username: admin
+    password: admin123
+
+
+How the rating system works ?
+
+When a new doctor is added , the admin is also asked to enter a rating. The final rating that is shown to the patients is calculated from 
+the default rating added by the admin and the rating given to that doctor by the patients in the review section
+
+Python modules used: tkinter, mysql-connector-python
+
+Import Squad thanks the organizers for this wonderful opportunity !!
+
