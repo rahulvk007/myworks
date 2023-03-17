@@ -1,4 +1,6 @@
 # myworks
-## This repository contains my work related to programming -Rahul Vijayakumar
+## This repository contains a few of my works -Rahul Vijayakumar
 
-Check out my webapp on chemical elements here: https://rahulvk.vercel.app/
+### Please read the readme file inside each project directory for details and instructions
+
+Check out my website here: https://www.rahulvk.com
